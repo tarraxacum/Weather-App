@@ -75,4 +75,5 @@ li:first-letter {
 }
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: #71C2AD; !important;
+  border-color: #71C2AD;
 }
