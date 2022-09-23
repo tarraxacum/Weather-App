@@ -35,9 +35,9 @@ li:first-letter {
 }
 .weather-app {
   padding: 20px;
-  border: 1px solid #264e70;
+  border: 2px solid #ffb4ac;
   border-radius: 5px;
-  background: #ffebd3;
+  background: #264e70;
 }
 .weather-temperature img {
   margin-right: 10px;
