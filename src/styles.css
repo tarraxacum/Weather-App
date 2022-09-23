@@ -64,11 +64,10 @@ li:first-letter {
 
 .weater-forecast-date {
   font-size: 16px;
-  color:#679186;
+  color: #679186;
 }
 .weather-forecast-temperatures {
   font-size: 13px;
-  color:#679186;
 }
 .weather-forecast-temperature-min {
   opacity: 0.6;
@@ -76,4 +75,4 @@ li:first-letter {
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
-Terms
+Terms 
