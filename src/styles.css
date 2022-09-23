@@ -77,3 +77,5 @@ li:first-letter {
     background-color: #71C2AD; !important;
   border-color: #71C2AD;
 }
+.form-control{
+  border-color: #71C2AD;}
