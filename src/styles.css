@@ -1,7 +1,5 @@
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: #ffebd3; 
-  opacity: 0.6;
 }
 
 h1 {
@@ -82,3 +80,5 @@ li:first-letter {
 .form-control{
   border: 2px solid #71C2AD;
 }
+.git{
+  color:#264e70;}
