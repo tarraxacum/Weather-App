@@ -81,4 +81,6 @@ li:first-letter {
   border: 2px solid #71C2AD;
 }
 .git{
-  color:#264e70;}
+  color:#264e70;
+ font-weight:600;
+}
