@@ -54,6 +54,7 @@ li:first-letter {
 .weather-temperature .units {
   position: relative;
   font-size: 20px;
+  color:#ffb4ac;
 }
 
 .weather-forecast {
@@ -63,6 +64,7 @@ li:first-letter {
 
 .weater-forecast-date {
   font-size: 16px;
+  color:#679186;
 }
 .weather-forecast-temperatures {
   font-size: 13px;
