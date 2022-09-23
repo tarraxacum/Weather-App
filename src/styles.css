@@ -49,6 +49,7 @@ li:first-letter {
   font-size: 54px;
   line-height: 1;
   font-weight: 400;
+  color:#ffb4ac;
 }
 .weather-temperature .units {
   position: relative;
@@ -65,6 +66,7 @@ li:first-letter {
 }
 .weather-forecast-temperatures {
   font-size: 13px;
+  color:#679186;
 }
 .weather-forecast-temperature-min {
   opacity: 0.6;
