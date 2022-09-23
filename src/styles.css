@@ -69,7 +69,6 @@ li:first-letter {
 }
 .weather-forecast-temperatures {
   font-size: 13px;
-  color:#679186;
 }
 .weather-forecast-temperature-min {
   opacity: 0.6;
